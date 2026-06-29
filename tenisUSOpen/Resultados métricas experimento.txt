@@ -1,0 +1,9 @@
+img1.png
+   -> IoU:  0.2433
+   -> Dice: 0.3913
+img2.png
+   -> IoU:  0.2932
+   -> Dice: 0.4535
+img3.png
+   -> IoU:  0.3030
+   -> Dice: 0.4650
